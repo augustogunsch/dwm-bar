@@ -19,11 +19,11 @@ dwm_cmus () {
             if [ "$STATUS" = "playing" ]; then
                 STATUS="▶"
             else
-                STATUS="⏸"
+                STATUS=""
             fi
 
             if [ "$SHUFFLE" = "true" ]; then
-                SHUFFLE=" 🔀"
+                SHUFFLE=" 咽"
             else
                 SHUFFLE=""
             fi
