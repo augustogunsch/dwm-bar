@@ -48,7 +48,6 @@ while true
 do
     # Append results of each func one by one to a string
     dispstr=""
-#    dispstr="$dispstr [ﴑ $(cat /home/augusto/scripts/crypto/val.txt)] "
 #    dispstr="$dispstr$(dwm_connman)"
 #    dispstr="$dispstr$(dwm_countdown)"
 #    dispstr="$dispstr$(dwm_alarm)"
